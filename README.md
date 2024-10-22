@@ -1,4 +1,3 @@
-EzyMetrics Backend:
 This project is the backend service for EzyMetrics, focusing on data integrations and reporting for CRM and marketing platforms. It includes API services for fetching and creating lead and campaign data, data storage in MongoDB, and reporting.
 
 

@@ -35,4 +35,4 @@ You can use Postman to test the API endpoints.
 -GET Leads: Make a GET request tohttp://localhost:5000/api/crm/leads.
 -POST Lead: Make a POST request to http://localhost:5000/api/reports/generate. 
 with the required lead data in the body (JSON format).
--GET Campaigns: Make a GET request to http://localhost:5000/api/marketing/campaigns.# EzyMetrics_noor
+-GET Campaigns: Make a GET request to http://localhost:5000/api/marketing/campaigns.
